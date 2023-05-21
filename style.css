@@ -1,0 +1,29 @@
+body {
+  background-color: #afeeee;
+  margin: 20px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+table {
+border: 10px solid #808080;
+border-radius: 10px;  
+}
+
+.texto {
+  font-size: 30px;
+  color: #ffff;
+}
+
+.produtosmoda {
+  background-color: #bb86fc;
+}
+
+.dadosprodutosmoda,
+.dadosprodutoscasa {
+  background-color: #424250;
+}
+
+.produtoscasa {
+  background-color: #00c4b4;
+}
